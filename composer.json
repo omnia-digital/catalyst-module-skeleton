@@ -10,6 +10,11 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Josh Torres",
+            "email": "josht@omniadigital.io",
+            "role": "Developer"
+        },
+        {
             "name": ":author_name",
             "email": "author@domain.com",
             "role": "Developer"
