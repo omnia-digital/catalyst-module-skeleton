@@ -1,13 +1,13 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace OmniaDigital\Catalyst\SkeletonModule;
 
 use Filament\PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
 
 class SkeletonServiceProvider extends PluginServiceProvider
 {
-    public static string $name = 'skeleton';
+    public static string $name = 'skeleton-module';
 
     protected array $resources = [
         // CustomResource::class,
