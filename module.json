@@ -1,0 +1,13 @@
+{
+    "name": "Skeleton",
+    "alias": "skeleton",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Forms\\Providers\\SkeletonServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

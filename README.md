@@ -16,6 +16,9 @@ This repo can be used to scaffold a Catalyst Module. Follow these steps to get s
 ---
 <!--/delete-->
 
+We've also included this repo to make creating Filament Resources for your module easier.
+https://github.com/realmrhex/filament-modular
+
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
 ## Installation
