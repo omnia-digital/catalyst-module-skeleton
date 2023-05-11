@@ -1,4 +1,4 @@
-# :package_description
+# Module Name
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/:vendor_slug/:package_slug/run-tests?label=tests)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3Arun-tests+branch%3Amain)
@@ -7,11 +7,12 @@
 
 <!--delete-->
 ---
-This repo can be used to scaffold a Filament plugin. Follow these steps to get started:
+This repo can be used to scaffold a Catalyst Module. Follow these steps to get started:
 
 1. Press the "Use this template" button at the top of this repo to create a new repo with the contents of this skeleton.
 2. Run "php ./configure.php" to run a script that will replace all placeholders throughout all the files.
-3. Make something great!
+3. Make sure that you include "-module" in the name of the repo so it will be placed in the right Modules directory within Catalyst when users install your module.
+4. Make something great!
 ---
 <!--/delete-->
 
